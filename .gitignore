@@ -1,0 +1,11 @@
+# models
+*.weights
+*.pt
+
+# videos
+*.mp4
+*.avi
+
+# datasets
+bikes/
+data/
